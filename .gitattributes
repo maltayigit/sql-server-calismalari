@@ -1,0 +1,7 @@
+*.pbix binary
+*.xlsx binary
+*.abf binary
+*.csv -text
+*.sql -text
+*.json -text
+*.bim -text
